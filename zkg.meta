@@ -1,0 +1,5 @@
+[package]
+version = 1.0
+tags = ssh, ebury 
+script_dir = scripts
+description = This script attempts to detect the Ebury ssh backdoor based on having base64 in the ssh client string. 
