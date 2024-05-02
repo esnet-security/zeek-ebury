@@ -2,7 +2,7 @@
 
 This script attempts to detect the Ebury ssh backdoor based on having base64 in the ssh client string.
 
-Description:
+# Description:
 
 Details about Ebury and original snort rules:
 https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/
